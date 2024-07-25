@@ -1,9 +1,317 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "monsters": [
+      {
+        "name": "Chronos",
+        "age": 4005.302453418598,
+        "description": "Effulgence eldritch shunned foetid. Ululate gibbering tenebrous foetid iridescence daemoniac. Stench nameless gambrel. Amorphous furtive iridescence noisome. Foetid mortal nameless.",
+        "id": "1"
+      },
+      {
+        "name": "Tartarus",
+        "age": 1874.4913565609456,
+        "description": "Cyclopean swarthy amorphous singular accursed furtive non-euclidean stygian. Swarthy gibbering charnel eldritch daemoniac gibbous. Cyclopean lurk hideous tentacles squamous immemorial tenebrous mortal. Madness tentacles furtive mortal foetid decadent. Foetid immemorial comprehension.",
+        "id": "2"
+      },
+      {
+        "name": "Hemera",
+        "age": 4094.8375978925988,
+        "description": "Dank immemorial abnormal gambrel. Cat lurk unutterable. Abnormal tenebrous ululate. Nameless swarthy manuscript eldritch indescribable accursed antediluvian decadent.",
+        "id": "3"
+      },
+      {
+        "name": "Bigfoot",
+        "age": 2,
+        "description": "Large, hairy creature often sighted in forests.",
+        "id": "9656"
+      },
+      {
+        "name": "Rodent King",
+        "age": 3,
+        "description": "Enormous rat with a majestic demeanor.",
+        "id": "da76"
+      },
+      {
+        "name": "Sand Camel",
+        "age": 10,
+        "description": "Massive camel adapted to desert life.",
+        "id": "965c"
+      },
+      {
+        "name": "Shaggy",
+        "age": 45,
+        "description": "Mysterious creature with a thick coat of fur.",
+        "id": "a303"
+      },
+      {
+        "name": "Sun Lion",
+        "age": 10,
+        "description": "Golden lion with a mane that glows in sunlight.",
+        "id": "55a2"
+      },
+      {
+        "name": "Web Spinner",
+        "age": 3,
+        "description": "Giant spider known for spinning intricate webs.",
+        "id": "43ce"
+      },
+      {
+        "name": "Arachno-Hero",
+        "age": 10,
+        "description": "Heroic spider-like being with enhanced abilities.",
+        "id": "e53d"
+      },
+      {
+        "name": "Night Fury",
+        "age": 6,
+        "description": "Small dragon known for its dark scales and speed.",
+        "id": "d66b"
+      },
+      {
+        "name": "Moondust Sprite",
+        "age": 120,
+        "description": "Tiny, ethereal creature made of shimmering moondust.",
+        "id": "235f"
+      },
+      {
+        "name": "Thunderclaw",
+        "age": 500,
+        "description": "Massive bird of prey with lightning-like talons.",
+        "id": "8b09"
+      },
+      {
+        "name": "Molten Behemoth",
+        "age": 1000,
+        "description": "Gigantic creature made of molten lava and rock.",
+        "id": "72c1"
+      },
+      {
+        "name": "Frostbite",
+        "age": 300,
+        "description": "Ice-covered yeti-like creature with freezing breath.",
+        "id": "f54a"
+      },
+      {
+        "name": "Siren Song",
+        "age": 200,
+        "description": "Enchanting sea creature with a mesmerizing voice.",
+        "id": "1a2b"
+      },
+      {
+        "name": "Basilisk",
+        "age": 150,
+        "description": "Mythical serpent with a deadly gaze that turns creatures to stone.",
+        "id": "9c43"
+      },
+      {
+        "name": "Shadow Stalker",
+        "age": 500,
+        "description": "Elusive creature that moves between shadows, hunting its prey.",
+        "id": "b7a2"
+      },
+      {
+        "name": "Forest Whisperer",
+        "age": 300,
+        "description": "Mysterious being that communicates with forest creatures.",
+        "id": "3f5d"
+      },
+      {
+        "name": "Starlight Sentinel",
+        "age": 800,
+        "description": "Celestial guardian creature that protects the night sky.",
+        "id": "e8a1"
+      },
+      {
+        "name": "Blaze",
+        "age": 400,
+        "description": "Fiery salamander-like creature with a passion for heat.",
+        "id": "67b2"
+      },
+      {
+        "name": "Phantom Howler",
+        "age": 150,
+        "description": "Ghostly wolf-like creature that haunts misty moors.",
+        "id": "d4e5"
+      },
+      {
+        "name": "Whisperwind",
+        "age": 200,
+        "description": "Gentle spirit of the wind that brings calm and serenity.",
+        "id": "87f3"
+      },
+      {
+        "name": "Gloombringer",
+        "age": 400,
+        "description": "Dark creature that spreads a sense of melancholy wherever it goes.",
+        "id": "2b19"
+      },
+      {
+        "name": "Echo",
+        "age": 50,
+        "description": "Tiny creature with the ability to mimic any sound perfectly.",
+        "id": "f61c"
+      },
+      {
+        "name": "Luminous Wanderer",
+        "age": 600,
+        "description": "Glowing creature that wanders the depths of the ocean.",
+        "id": "a94d"
+      },
+      {
+        "name": "Duskbringer",
+        "age": 300,
+        "description": "Twilight-dwelling creature that heralds the onset of night.",
+        "id": "b23e"
+      },
+      {
+        "name": "Stone Sentinel",
+        "age": 1000,
+        "description": "Ancient golem-like creature made of living stone.",
+        "id": "c37f"
+      },
+      {
+        "name": "Crystal Serpent",
+        "age": 500,
+        "description": "Beautiful serpent adorned with shimmering crystals.",
+        "id": "5a8d"
+      },
+      {
+        "name": "Jade Guardian",
+        "age": 800,
+        "description": "Guardian creature made of precious jade, protecting ancient tombs.",
+        "id": "e19b"
+      },
+      {
+        "name": "Thunderclap",
+        "age": 700,
+        "description": "Enormous bird that creates thunder with each flap of its wings.",
+        "id": "4c2a"
+      },
+      {
+        "name": "Mistwalker",
+        "age": 400,
+        "description": "Ethereal being that walks through thick mist without leaving a trace.",
+        "id": "9d3b"
+      },
+      {
+        "name": "Swiftwind",
+        "age": 150,
+        "description": "Fast-flying creature that streaks through the sky like a comet.",
+        "id": "f2e4"
+      },
+      {
+        "name": "Molten Phoenix",
+        "age": 1000,
+        "description": "Phoenix-like creature made of molten lava and capable of rebirth.",
+        "id": "1b9c"
+      },
+      {
+        "name": "Spectral Wanderer",
+        "age": 500,
+        "description": "Ghostly figure that roams ancient ruins, seeking peace.",
+        "id": "8d4f"
+      },
+      {
+        "name": "Amberwing",
+        "age": 300,
+        "description": "Dragonfly-like creature with translucent amber wings.",
+        "id": "6e7a"
+      },
+      {
+        "name": "Celestial Weaver",
+        "age": 800,
+        "description": "Spider-like creature that weaves constellations into cosmic tapestries.",
+        "id": "b4c3"
+      },
+      {
+        "name": "Whispering Oak",
+        "age": 1000,
+        "description": "Ancient oak tree that whispers wisdom to those who listen.",
+        "id": "d5e1"
+      },
+      {
+        "name": "Echo Stone",
+        "age": 200,
+        "description": "Stone imbued with the ability to echo voices across vast distances.",
+        "id": "f8a2"
+      },
+      {
+        "name": "Dreadbloom",
+        "age": 400,
+        "description": "Sinister flower that blooms only in moonlit graveyards.",
+        "id": "7b1d"
+      },
+      {
+        "name": "Ice Shard",
+        "age": 300,
+        "description": "Living ice shard that glows with an icy blue light.",
+        "id": "a2b5"
+      },
+      {
+        "name": "Stormcaller",
+        "age": 500,
+        "description": "Creature that commands thunderstorms and rides on bolts of lightning.",
+        "id": "c8d4"
+      },
+      {
+        "name": "Obsidian Guardian",
+        "age": 800,
+        "description": "Guardian creature made of black obsidian, protector of ancient secrets.",
+        "id": "9e7f"
+      },
+      {
+        "name": "Labyrinth Lurker",
+        "age": 200,
+        "description": "Creature that navigates labyrinthine passages with ease, stalking its prey.",
+        "id": "2f1a"
+      },
+      {
+        "name": "Quicksilver Serpent",
+        "age": 300,
+        "description": "Serpent made of liquid quicksilver that slithers with lightning speed.",
+        "id": "e4b7"
+      },
+      {
+        "name": "Glowing Gazer",
+        "age": 150,
+        "description": "Small creature with glowing eyes that can see in the darkest of places.",
+        "id": "5d2c"
+      },
+      {
+        "name": "Spectral Howler",
+        "age": 400,
+        "description": "Ghostly wolf-like creature whose howl chills the bravest of hearts.",
+        "id": "8a9d"
+      },
+      {
+        "name": "Silent Specter",
+        "age": 200,
+        "description": "Ghostly figure that moves silently through abandoned halls.",
+        "id": "b7e3"
+      },
+      {
+        "name": "Shimmering Sprite",
+        "age": 100,
+        "description": "Tiny sprite that shimmers with all the colors of the rainbow.",
+        "id": "f4c9"
+      },
+      {
+        "name": "Sprite",
+        "age": 100,
+        "description": "Tiny sprite that shimmers with all the colors of the rainbow.",
+        "id": "f4c9"
+      },
+      {
+        "name": "Shimmers",
+        "age": 100,
+        "description": "Tiny sprite that shimmers with all the colors of the rainbow.",
+        "id": "f4c9"
+      }, 
+      {
+        "name": "Shimmers",
+        "age": 100,
+        "description": "Tiny sprite that shimmers with all the colors of the rainbow.",
+        "id": "f4c9"
+      }
+    ]
+  }
+  
